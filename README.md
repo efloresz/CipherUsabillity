@@ -1,5 +1,5 @@
 # Cipher Usability Project
-Program implements the encryption and decryption algorithm using the Caesar cipher
+Program implements the encryption and decryption algorithm using the Caesar cipher.
 Created on August 24, 2022
 
 # Purpose
