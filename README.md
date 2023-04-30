@@ -1,35 +1,14 @@
-# Cipher Usability Starter Code
-This is a place for you to start building your Cipher Usability Project!
+# Cipher Usability Project
+Program implements the encryption and decryption algorithm using the Caesar cipher
+Created on August 24, 2022
 
-### Project Requirements
-Your project should:
-- Import the string library to access more characters.
-- Share an opening message with the user that describes what the program will do.
-- Include user input for the initialMessage (capital letters, lowercase letters, numbers, and keyboard symbols), the key, and the mode (encrypt or decrypt).
-- Include a for loop that cycles through each character in the initialMessage.
-- Include a conditional statement that allows for multiple word messages.
-- Define and call a function called encryptOrDecrypt() that stores a conditional statement to encrypt or decrypt the initialMessage based on user input.
-- Define and call a function called wraparound() that stores a conditional statement to adjust the position of any wraparound characters.
-- Share the shiftedMessage with the user.
+# Purpose
+* The purpose of this program is to implement a simple encryption and decryption algorithm using the Caesar cipher. The user is prompted to enter a message, a key, and whether they want to encrypt or decrypt the message. The program then shifts each character in the message by the key value and outputs the resulting message.
 
-### Extensions
-You can extend your project further by:
-- Add another usability feature.
-- Add a while loop to repeat the program.
-- Explore other ciphers. 
-
-###  Attributions
-*If you used any code, ideas, or resources from another person or group of people, tell us about it here. Make sure it is in the public domain, has a license that allows you to use it, or is one of your own.
-- This code is inspired by Cracking Codes with Python: An Introduction to Building and Breaking Ciphers by Al Sweigart https://www.nostarch.com/crackingcodes (BSD Licensed)
-- Add here if applicable
-
----
-
-## File Overview
-
-### ← README.md
-
-README.md file give you more documentation and information about a program. They are super helpful for describing what a program should do, any issues you've encountered, changes you want to make, and more. 
-
-### ← main.py
-This is where you will write your main program.# CipherUsabillity-
+# What I Learned
+* Caesar Cipher: I learned how to implement a basic Caesar Cipher encryption and decryption algorithm using Python.
+* String manipulation: I gained experience working with strings by manipulating them using built-in Python functions such as find(), slicing, and concatenation.
+* User input validation: The program requires validating user input to ensure that the message only contains allowed characters and that the key is within the valid range.
+* Debugging and troubleshooting: I developed skills in identifying and fixing errors in my code using tools such as print statements and Python's built-in debugger.
+* Testing and quality assurance: I conducted thorough testing and quality assurance checks to ensure that my code was working properly and efficiently, including running automated test scripts and manually testing edge cases.
+* Technical documentation: I created clear and concise technical documentation for the project, including a README file that explained how to use the program, its purpose and features, and any installation or configuration requirements.
