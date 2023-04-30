@@ -1,6 +1,6 @@
 # Cipher Usability Project
-Program implements the encryption and decryption algorithm using the Caesar cipher.
-Created on August 24, 2022
+* Program implements the encryption and decryption algorithm using the Caesar cipher.
+* Created on August 24, 2022
 
 # Purpose
 * The purpose of this program is to implement a simple encryption and decryption algorithm using the Caesar cipher. The user is prompted to enter a message, a key, and whether they want to encrypt or decrypt the message. The program then shifts each character in the message by the key value and outputs the resulting message.
