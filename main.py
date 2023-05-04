@@ -33,7 +33,8 @@ def wraparound():
 # Run code
 
 # Introduction
-print("Welcome! This program will encrypt or decrypt your secret message using the Caesar cipher. \n\nWhen creating your message, you may only choose from the following characters: " + possibleCharacters + "\n\nLet's get started!\n")
+print("Welcome! This program will encrypt or decrypt your secret message using the Caesar cipher.\n
+\nWhen creating your message, you may only choose from the following characters: " + possibleCharacters + "\n\nLet's get started!\n")
 
 # Receive user input
 initialMessage = input("What is your message? ")
