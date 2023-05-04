@@ -27,8 +27,7 @@ def wraparound():
   if shiftedPosition >= len(possibleCharacters):
     shiftedPosition = shiftedPosition - len(possibleCharacters)
   elif shiftedPosition < 0:
-    shiftedPosition = shiftedPosition + len(possibleCharacters)
-                                        
+    shiftedPosition = shiftedPosition + len(possibleCharacters)                                        
 
 # Run code
 
@@ -47,9 +46,7 @@ for character in initialMessage:
     initialPosition = possibleCharacters.find(character)
     encryptOrDecrypt()
     wraparound()
-
     
-
     if shiftedPosition >= len(possibleCharacters):
       shiftedPosition = shiftedPosition - len(possibleCharacters)
     elif shiftedPosition < 0:
