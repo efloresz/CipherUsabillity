@@ -3,6 +3,13 @@
 
 # Purpose
 * The purpose of this program is to implement a simple encryption and decryption algorithm using the Caesar cipher. The user is prompted to enter a message, a key, and whether they want to encrypt or decrypt the message. The program then shifts each character in the message by the key value and outputs the resulting message.
+<p>
+  <img width="846" alt="Screen Shot 2023-05-14 at 8 20 40 PM" src="https://github.com/efloresz/CipherUsabillity/assets/110843762/48275b0f-4e20-4d97-a1c1-525f469f6972">
+  </p>
+<p>
+ <img width="843" alt="Screen Shot 2023-05-14 at 8 22 21 PM" src="https://github.com/efloresz/CipherUsabillity/assets/110843762/fa2b1a58-e691-46c6-855d-8a9117013caa">
+
+  </p>
 
 # What I Learned
 * Caesar Cipher: I learned how to implement a basic Caesar Cipher encryption and decryption algorithm using Python.
