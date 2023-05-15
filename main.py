@@ -35,7 +35,7 @@ print("Welcome! This program will encrypt or decrypt your secret message using t
 
 # Receive user input
 initialMessage = input("What is your message? ")
-key = int(input("What is the key? Choose a number from 0 to 93. "))
+key = int(input("What is the key? Choose a number from 0 to 93: "))
 mode = input("Do you want to encrypt or decrypt? ")
 
 # Encrypt or decrypt the message
